@@ -20,11 +20,11 @@
     "http-server": "^14.0.0",
     "mini-css-extract-plugin": "^2.4.5",
     "npm-check-updates": "",
-    "sass": "^1.45.2",
-    "sass-loader": "^12.4.0",
-    "webpack": "^5.65.0",
+    "sass": "^1.43.4",
+    "sass-loader": "^12.3.0",
+    "webpack": "^5.64.2",
     "webpack-cli": "^4.9.1",
-    "webpack-dev-server": "^4.7.2"
+    "webpack-dev-server": "^4.5.0"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.4",
@@ -38,7 +38,7 @@
     "leaflet-fullscreen": "^1.0.2",
     "leaflet-providers": "github:leaflet-extras/leaflet-providers",
     "leaflet-routing-machine": "^3.2.12",
-    "leaflet.locatecontrol": "^0.76.0",
+    "leaflet.locatecontrol": "^0.74.1",
     "leaflet.markercluster": "^1.5.3",
     "leaflet.markercluster.layersupport": "^2.0.1",
     "papaparse": "^5.3.1"
